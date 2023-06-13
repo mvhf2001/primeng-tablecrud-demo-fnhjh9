@@ -7,4 +7,6 @@ export interface Person {
   weight?: number;
   note?: string;
   phone?: string;
+  cep?: string;
+  senha?: string;
 }
